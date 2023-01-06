@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, My name is Sheilla Nyambura Chomba
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif"/>
