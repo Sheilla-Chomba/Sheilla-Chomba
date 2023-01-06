@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sheilla980&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sheilla-Chomba&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **Sheilla-Chomba/Sheilla-Chomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
