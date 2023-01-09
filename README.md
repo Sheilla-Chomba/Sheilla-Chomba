@@ -2,11 +2,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif"/>
 </div>
-### :woman_technologist: About Me :
+<h3 align="left">### :woman_technologist: About Me :</h3>
 
 🌱 I’m currently learning Data analytics, Data science, Python and R programming
 
-I am a data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+🌱 I am a data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
